@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Thanks for stopping by my profile. 
+I'm currently working on improving Search Performance of OpenSearch. Please reach me on OpenSearch public slack if you need help starting your intial contributions to OpenSearch.
+
+![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshkr419&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=FE428E&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sandeshkr419&theme=radical)](https://git.io/streak-stats)
+
+
 <!--
 **sandeshkr419/sandeshkr419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

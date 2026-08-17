@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thanks for stopping by my profile. Outisde of work, I like to read about non-mainstream historical incidents, mythological & science fictions. I dedicate a fair amount of time in playing AAA titles on my PS5, currently playing the Uncharted series.
+Thanks for stopping by my profile. Outisde of work, I like to read about history, science, mysteries. I dedicate a fair amount of time in playing AAA titles on my PS5, currently playing the Uncharted series.
 
 Please reach me on OpenSearch public slack if you need help starting your intial contributions to OpenSearch. Hit me up on [LinkedIn](https://www.linkedin.com/in/sandeshkr419/) if you'd like to talk about anything else.
 
